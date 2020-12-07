@@ -1,3 +1,7 @@
+# API fetched:
+
+![Screenshot from 2020-12-07 17-40-52](https://user-images.githubusercontent.com/22225821/101403455-08edc100-38b4-11eb-9b18-0e2ad435bd94.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
